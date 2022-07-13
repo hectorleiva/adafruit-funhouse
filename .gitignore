@@ -1,0 +1,7 @@
+secrets.py
+System Volume Information
+
+lib/*
+.vscode/*
+
+*.fzz
